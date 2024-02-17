@@ -1,4 +1,4 @@
-<img src=".images/game-rule.png" height="400px" alt="game-rule-pic">
+<img src="game-rule.png" height="400px" alt="game-rule-pic">
 
 # Rock Paper Scissors: The Psychology of the Game
 
